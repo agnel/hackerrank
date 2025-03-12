@@ -6,6 +6,10 @@
 # example:
 # str = "zmlasidnflasdflknonztynl"
 # output => "ztynl" (ans is not "zmlasidnflasdflknonztynl")
+# str = "abaca"
+# output => "ca"
+# str = "banana"
+# output => "nana"
 
 # Python 3 program to find the
 # lexicographically maximum substring.
